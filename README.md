@@ -97,17 +97,6 @@ Assignment 3/
 └── README.md              # This file
 ```
 
-## 🔍 Deployment Guidelines
-
-**Critical Requirements for Production**:
-
-1. **Model Role**: Decision support only, NOT autonomous decision-making
-2. **Monitoring**: Monthly fairness audits across all demographic groups
-3. **Privacy**: Maintain ε ≤ 1.0 for differential privacy
-4. **Governance**: Multidisciplinary ethics review board oversight
-5. **Transparency**: LIME explanations for all high-risk predictions
-6. **Validity**: Model retraining required every 12 months
-
 ## 📈 Use Cases
 
 - **Clinical Decision Support**: Identify high-risk patients for targeted interventions
@@ -123,15 +112,7 @@ Assignment 3/
 - Missing data in some features (weight, payer_code)
 - Geographic limitation: US hospitals only
 
-## 🤝 Contributing
-
-This project is part of an academic assignment. For questions or suggestions, please refer to the course materials.
-
-## 📄 License
-
-Academic use only - Ethics in AI Course Assignment
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - UCI Machine Learning Repository for the diabetes dataset
 - LIME library developers for explainability tools
@@ -140,5 +121,4 @@ Academic use only - Ethics in AI Course Assignment
 ---
 
 **Assignment**: Developing an Ethical Predictive Modelling Pipeline  
-**Focus**: Privacy, Fairness, Transparency, and Accountability in Healthcare AI  
-**Status**: ✅ Complete - All 4 sections (100 points) implemented
+**Focus**: Privacy, Fairness, Transparency, and Accountability in Healthcare AI 
