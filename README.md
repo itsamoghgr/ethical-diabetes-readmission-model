@@ -89,7 +89,7 @@ Run all cells sequentially or select "Cell → Run All" in the Jupyter menu.
 ## 📁 Project Structure
 
 ```
-Assignment 3/
+ethical-diabetes-readmission-model/
 ├── ethics.ipynb           # Main notebook with complete pipeline
 ├── dataset/
 │   ├── diabetic_data.csv  # Patient encounter data
